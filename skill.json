@@ -1,0 +1,15 @@
+{
+  "name": "genpark-kalman-filter-1d-state-estimator-skill",
+  "version": "1.0.0",
+  "description": "1D linear Kalman filter for state estimation and sensor fusion.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "kalman-filter",
+    "state-estimation",
+    "sensor-fusion",
+    "covariance-update",
+    "signal-processing"
+  ]
+}
